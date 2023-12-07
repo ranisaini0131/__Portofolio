@@ -10,7 +10,7 @@ export default function Home() {
                         <h5 className="text-4xl font-bold sm:text-5xl">
                             Node.js Developer 
                             <span className="hidden sm:block text-2xl">
-                            I am Rani Saini. I am professionally a backend developer, having keen interest in building logics and problem solving.
+                            I am Rani Saini. I am professionally a backend developer, having keen interest in building logics and problem solving....
                             </span>
                         </h5>
 
